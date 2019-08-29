@@ -49,7 +49,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.cloudinary</groupId>
-			<artifactId>cloud-http44</artifactId>
+			<artifactId>cloudinary-http44</artifactId>
 			<version>1.2.1</version>
 		</dependency>
 
